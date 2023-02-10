@@ -2,17 +2,15 @@
 I'm Jorge, a 32 years old web developer from México.
 
 ## Skills
-- 👨‍💻 JavaScript & PHP. (intern)
-- ⚙️ Bootstrap and React. (intern)
-- 👁️ HTML, CSS & Javascript. (intern)
-- 💽 MySQL, SQL. (intern)
+- 👨‍💻 HTML, CSS & JavaScrip, Bootstrap.
+- ⚙️ Angular 2+
+- 👁️ Java, Spring boot.
+- 💽 MySQL, SQL.
 
 ## Soft-skills
-- 🤝 Team-Worker.``
+- 🤝 Team-Worker.
 - 🧠 Growth mindset.
 - 💬 Communication skills.
 
 ## Contact
 - [@jorgelopezvz](https://www.linkedin.com/in/jorgelopezvz/) on LinkedIn
-- [@jorgelopezvz](https://instagram.com/jorgelopezvz) on Instagram
-- [jorgelopezvz#7721](./) on Discord
