@@ -2,9 +2,9 @@
 I'm Jorge, a 35 years old web developer from México.
 
 ## Skills
-- 👁️ Java, Spring boot.
-- ⚙️ Angular 2+, React
-- 💽 MySQL, Postgres
+- 👁️ Java, Spring boot and Microservices.
+- ⚙️ React
+- 💽 Postgres
 
 ## Soft-skills
 - 🤝 Team-Worker.
